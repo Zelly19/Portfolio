@@ -36,7 +36,6 @@ Welcome to my **Software Development Portfolio**, a collection of projects that 
 
 ### Software & Backend Development
 - **E-Commerce Backend (Java, Spring Boot)**  
-  - Developed a RESTful API with user authentication, product management, and payment integration  
   - Implemented SQL/NoSQL databases for data storage and retrieval  
 
 - **Data Analytics Dashboard (Python, Flask)**  
