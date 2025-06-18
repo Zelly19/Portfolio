@@ -1,5 +1,4 @@
 /*
-Name: Payton Zellmer
 Date: 2-____-20
 Description: Opens and reads a file that calculates the total bought ketchup from each brand as 
 well as the total income that each brought in. 
