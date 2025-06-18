@@ -1,5 +1,5 @@
 /* 
- * Name: Payton Zellmer
+
  * ID: 100342335
  * Date: 2/7/20
  * Description: To create a program that reads files and writes to new ones
