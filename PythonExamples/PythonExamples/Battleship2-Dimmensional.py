@@ -1,4 +1,3 @@
-#payton Zellmer
 #Assignment #4 -- Battleship---includes all points
 #9/20/2019
 #
