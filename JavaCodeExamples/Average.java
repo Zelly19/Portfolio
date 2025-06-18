@@ -1,5 +1,4 @@
 /* Homework Assignment #2
- * Payton Zellmer
  * 100342335
  * 2/3/20
  * this program calculates the avg of 5 numbers and displays it on a file
